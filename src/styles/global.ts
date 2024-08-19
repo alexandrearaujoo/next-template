@@ -1,6 +1,4 @@
-import styled, { createGlobalStyle } from 'styled-components';
-
-import { Toaster } from 'sonner';
+import { createGlobalStyle } from 'styled-components';
 
 export const GlobalStyles = createGlobalStyle`
     :root {

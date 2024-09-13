@@ -12,6 +12,7 @@ const montserrat = Montserrat({
 });
 
 export const theme = {
+  shadows: {},
   colors: {},
   fonts: {
     //Montserrat

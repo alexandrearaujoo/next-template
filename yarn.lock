@@ -2,11 +2,6 @@
 # yarn lockfile v1
 
 
-"-@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/-/-/--0.0.1.tgz#db6db7cd866142880dd03e5b8781d1b4fac0e5bd"
-  integrity sha512-3HfneK3DGAm05fpyj20sT3apkNcvPpCuccOThOPdzz8sY7GgQGe0l93XH9bt+YzibcTIgUAIMoyVJI740RtgyQ==
-
 "@adobe/css-tools@^4.3.2":
   version "4.4.0"
   resolved "https://registry.yarnpkg.com/@adobe/css-tools/-/css-tools-4.4.0.tgz#728c484f4e10df03d5a3acd0d8adcbbebff8ad63"
@@ -2599,6 +2594,11 @@
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/@ungap/structured-clone/-/structured-clone-1.2.0.tgz#756641adb587851b5ccb3e095daf27ae581c8406"
   integrity sha512-zuVdFrMJiuCDQUMCzQaD6KL28MjnqqN8XnAqiEq9PNm/hCPTSGfrXCOfwj1ow4LFb/tNymJPwsNbVePc1xFqrQ==
+
+"@untitled-theme/icons-react@0.4.0":
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/@untitled-theme/icons-react/-/icons-react-0.4.0.tgz#1be8ec4aa10a8514574816a5203fba8f5c6a5db3"
+  integrity sha512-iInNtqohQLkjG7EeGoAHQanzLhBP7lCYafEK/tgN600cwycdKxUmF+bx7s8de/DSCwkVUH/kjGpycr0bxPr1dQ==
 
 "@vitest/expect@1.6.0":
   version "1.6.0"

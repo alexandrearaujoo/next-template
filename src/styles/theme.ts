@@ -13,6 +13,7 @@ const montserrat = Montserrat({
 
 export const theme = {
   shadows: {},
+  breakpoints: {},
   colors: {},
   fonts: {
     //Montserrat
